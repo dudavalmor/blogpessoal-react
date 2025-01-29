@@ -22,7 +22,7 @@ function Navbar() {
 
         component = (
 
-            <div className='w-full bg-indigo-900 text-white
+            <div className='w-full bg-rose-300 text-black
                 flex justify-center py-4'>
 
                 <div className="container flex justify-between text-lg">
